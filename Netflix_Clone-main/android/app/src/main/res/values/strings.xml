@@ -1,0 +1,11 @@
+<resources>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <string name="app_name">redux_toolkit_example</string>
+=======
+    <string name="app_name">netflixClone</string>
+>>>>>>> 4651d54 (Initial commit)
+=======
+    <string name="app_name">Netflix</string>
+>>>>>>> 46c4ce2 (last commit)
+</resources>

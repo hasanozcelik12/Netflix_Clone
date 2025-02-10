@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+rootProject.name = 'redux_toolkit_example'
+=======
+rootProject.name = 'netflixClone'
+>>>>>>> 4651d54 (Initial commit)
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
